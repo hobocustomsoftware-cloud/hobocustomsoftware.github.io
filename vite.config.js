@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // - If deploying to https://<username>.github.io/<repo-name> -> set base: '/<repo-name>/'
 export default defineConfig({
   plugins: [react()],
-  base: 'hobocustomsoftware.github.io',
+  base: './',
 })
