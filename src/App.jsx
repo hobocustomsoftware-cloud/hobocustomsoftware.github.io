@@ -140,7 +140,7 @@ function About() {
             as="p"
             gap={7}
             delay={500}
-            text="I'm a software engineer based in Yangon, Myanmar, focused on building web products that stay fast and dependable under real-world load. Over the past five years I've worked across the stack — designing APIs, shaping databases, and building the interfaces people spend their day in."
+            text="I'm a software engineer based in Yangon, Myanmar, focused on building web products that stay fast and dependable under real-world load. Over the past seven years I've worked across the stack — designing APIs, shaping databases, and building the interfaces people spend their day in."
           />
           <AnimatedText
             as="p"
